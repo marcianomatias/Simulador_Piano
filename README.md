@@ -6,7 +6,7 @@
 - [📖 Sobre](#-Sobre)
 - [🚀 Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [🖥 Preview](#-Preview)
-- [📌 Créditos](#-Créditos)
+
 
 ## 📖 Sobre
 Projeto desenvolvido durante o Bootcamp [Potência Tech iFood - Desenvolvimento de Jogos](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos). Construindo um Simulador de Piano com JavaScript.
